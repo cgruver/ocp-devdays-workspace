@@ -5,12 +5,15 @@
 			"path": "/projects/ocp-devdays-workspace"
 		},
 		{
+			"name": "ocp-dev-days-rdshw-automation",
 			"path": "/projects/ocp-dev-days-rdshw-automation"
 		},
 		{
+			"name": "ocp-dev-days-rdshw-gitops",
 			"path": "/projects/ocp-dev-days-rdshw-gitops"
 		},
 		{
+			"name": "ocp-dev-days-rdshw-showroom",
 			"path": "/projects/ocp-dev-days-rdshw-showroom"
 		}
 	],
@@ -18,7 +21,7 @@
 		"recommendations": [
 			"dbaeumer.vscode-eslint",
 			"redhat.vscode-yaml",
-			"redhat.vscode-openshift-connector",
+			"ms-kubernetes-tools.vscode-kubernetes-tools",
 			"mhutchie.git-graph",
 			"eamodio.gitlens",
 			"streetsidesoftware.code-spell-checker",
