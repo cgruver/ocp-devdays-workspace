@@ -15,6 +15,14 @@
 		{
 			"name": "ocp-dev-days-rdshw-showroom",
 			"path": "/projects/ocp-dev-days-rdshw-showroom"
+		},
+		{
+			"name": "workspace-images",
+			"path": "/projects/workspace-images"
+		},
+		{
+			"name": "parasol-insurance",
+			"path": "/projects/parasol-insurance"
 		}
 	],
 	"extensions": {
@@ -37,6 +45,7 @@
 		"workbench.preferredLightColorTheme": "Winter is Coming (Light)",
 		"editor.wordWrap": "on",
 		"files.autoSave": "off",
-		"zoo-code.autoImportSettingsPath": "/globalconfig/zoo-code-settings.json"
+		"zoo-code.autoImportSettingsPath": "/globalconfig/zoo-code-settings.json",
+		"chat.disableAIFeatures": true
 	}
 }
