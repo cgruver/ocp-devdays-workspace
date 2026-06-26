@@ -43,7 +43,7 @@ components:
     image: image-registry.openshift-image-registry.svc:5000/cekit-images/ops-tools:latest
     memoryLimit: 6Gi
     memoryRequest: 1Gi
-    cpuLimit: "4"
+    cpuLimit: "2"
     cpuRequest: 100m
     mountSources: true
     env:
