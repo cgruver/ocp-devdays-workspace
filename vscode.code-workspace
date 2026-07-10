@@ -36,6 +36,7 @@
 			"johnpapa.winteriscoming",
 			"sst-dev.opencode",
 			"zoocodeorganization.zoo-code",
+			"kilocode.kilo-code",
 			"cnshenj.vscode-task-manager"
 		]
 	},
@@ -46,6 +47,14 @@
 		"editor.wordWrap": "on",
 		"files.autoSave": "off",
 		"zoo-code.autoImportSettingsPath": "/globalconfig/zoo-code-settings.json",
-		"chat.disableAIFeatures": true
+		"chat.disableAIFeatures": true,
+		"kilo-code.new.autocomplete.enableAutoTrigger": false,
+		"kilo-code.new.autocomplete.enableChatAutocomplete": false,
+		"kilo-code.new.autocomplete.enableSmartInlineTaskKeybinding": false,
+		"kilo-code.new.browserAutomation.enabled": false,
+		"kilo-code.new.browserAutomation.headless": false,
+		"kilo-code.new.browserAutomation.useSystemChrome": false,
+		"kilo-code.new.model.providerID": "asus-gx10",
+		"kilo-code.new.model.modelID": "nemotron-3-super"
 	}
 }
