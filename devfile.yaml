@@ -37,6 +37,13 @@ dependentProjects:
     checkoutFrom:
       remote: origin
       revision: main
+- name: parasol-insurance-manifests
+  git:
+    remotes:
+      origin: https://github.com/cgruver/parasol-insurance-manifests.git
+    checkoutFrom:
+      remote: origin
+      revision: main
 components:
 - name: dev-tools
   container:

@@ -23,6 +23,10 @@
 		{
 			"name": "parasol-insurance",
 			"path": "/projects/parasol-insurance"
+		},
+		{
+			"name": "parasol-insurance-manifests",
+			"path": "/projects/parasol-insurance-manifests"
 		}
 	],
 	"extensions": {
