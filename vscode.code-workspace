@@ -27,6 +27,14 @@
 		{
 			"name": "parasol-insurance-manifests",
 			"path": "/projects/parasol-insurance-manifests"
+		},
+		{
+			"name": "module3-dev-workspace",
+			"path": "/projects/module3-dev-workspace"
+		},
+		{
+			"name": "ansible-devspaces-fsc",
+			"path": "/projects/ansible-devspaces-fsc"
 		}
 	],
 	"extensions": {
@@ -35,7 +43,6 @@
 			"redhat.vscode-yaml",
 			"ms-kubernetes-tools.vscode-kubernetes-tools",
 			"mhutchie.git-graph",
-			"eamodio.gitlens",
 			"streetsidesoftware.code-spell-checker",
 			"johnpapa.winteriscoming",
 			"sst-dev.opencode",

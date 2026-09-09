@@ -44,6 +44,20 @@ dependentProjects:
     checkoutFrom:
       remote: origin
       revision: main
+- name: module3-dev-workspace
+  git:
+    remotes:
+      origin: https://github.com/cgruver/module3-dev-workspace.git
+    checkoutFrom:
+      remote: origin
+      revision: main
+- name: ansible-devspaces-fsc
+  git:
+    remotes:
+      origin: https://github.com/cgruver/ansible-devspaces-fsc.git
+    checkoutFrom:
+      remote: origin
+      revision: main
 components:
 - name: dev-tools
   container:
