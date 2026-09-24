@@ -44,10 +44,24 @@ dependentProjects:
     checkoutFrom:
       remote: origin
       revision: main
-- name: module3-dev-workspace
+- name: ocp-pe-wkshp-helm-infra
   git:
     remotes:
-      origin: https://github.com/cgruver/module3-dev-workspace.git
+      origin: https://github.com/cgruver/ocp-pe-wkshp-helm-infra.git
+    checkoutFrom:
+      remote: origin
+      revision: main
+- name: platform-engineering-workshop
+  git:
+    remotes:
+      origin: https://github.com/cgruver/platform-engineering-workshop.git
+    checkoutFrom:
+      remote: origin
+      revision: main
+- name: ocp-pe-wkshp-rhdh-configs
+  git:
+    remotes:
+      origin: https://github.com/cgruver/ocp-pe-wkshp-rhdh-configs.git
     checkoutFrom:
       remote: origin
       revision: main
