@@ -65,6 +65,27 @@ dependentProjects:
     checkoutFrom:
       remote: origin
       revision: main
+- name: ocp-pe-wkshp-dev-spaces-config
+  git:
+    remotes:
+      origin: https://github.com/cgruver/ocp-pe-wkshp-dev-spaces-config.git
+    checkoutFrom:
+      remote: origin
+      revision: main
+- name: showroom-roadshow-v2
+  git:
+    remotes:
+      origin: https://github.com/cgruver/showroom-roadshow-v2.git
+    checkoutFrom:
+      remote: origin
+      revision: main
+- name: pe-workshop-prerequisite-samples
+  git:
+    remotes:
+      origin: https://github.com/cgruver/pe-workshop-prerequisite-samples.git
+    checkoutFrom:
+      remote: origin
+      revision: main
 - name: ansible-devspaces-fsc
   git:
     remotes:

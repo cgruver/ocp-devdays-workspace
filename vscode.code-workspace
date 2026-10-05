@@ -41,6 +41,18 @@
 			"path": "/projects/ocp-pe-wkshp-rhdh-configs"
 		},
 		{
+			"name": "ocp-pe-wkshp-dev-spaces-config",
+			"path": "/projects/ocp-pe-wkshp-dev-spaces-config"
+		},
+		{
+			"name": "showroom-roadshow-v2",
+			"path": "/projects/showroom-roadshow-v2"
+		},
+		{
+			"name": "pe-workshop-prerequisite-samples",
+			"path": "/projects/pe-workshop-prerequisite-samples"
+		},
+		{
 			"name": "ansible-devspaces-fsc",
 			"path": "/projects/ansible-devspaces-fsc"
 		}
