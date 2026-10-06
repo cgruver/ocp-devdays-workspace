@@ -33,7 +33,7 @@
 			"path": "/projects/ocp-pe-wkshp-helm-infra"
 		},
 		{
-			"name": "platform-engineering-workshop",
+			"name": "ocp-pe-wkshp",
 			"path": "/projects/platform-engineering-workshop"
 		},
 		{
@@ -45,11 +45,11 @@
 			"path": "/projects/ocp-pe-wkshp-dev-spaces-config"
 		},
 		{
-			"name": "showroom-roadshow-v2",
+			"name": "ocp-pe-wkshp-showroom-roadshow-v2",
 			"path": "/projects/showroom-roadshow-v2"
 		},
 		{
-			"name": "pe-workshop-prerequisite-samples",
+			"name": "ocp-pe-wkshp-prerequisite-samples",
 			"path": "/projects/pe-workshop-prerequisite-samples"
 		},
 		{
