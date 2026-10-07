@@ -1,8 +1,8 @@
 {
 	"folders": [
 		{
-			"name": "ocp-devdays-workspace",
-			"path": "/projects/ocp-devdays-workspace"
+			"name": "ocp-roadshow-workspace",
+			"path": "/projects/ocp-roadshow-workspace"
 		},
 		{
 			"name": "ocp-dev-days-rdshw-automation",
@@ -17,24 +17,24 @@
 			"path": "/projects/ocp-dev-days-rdshw-showroom"
 		},
 		{
-			"name": "workspace-images",
-			"path": "/projects/workspace-images"
+			"name": "ocp-dev-days-rdshw-workspace-images",
+			"path": "/projects/ocp-dev-days-rdshw-workspace-images"
 		},
 		{
-			"name": "parasol-insurance",
-			"path": "/projects/parasol-insurance"
+			"name": "ocp-dev-days-rdshw-parasol-insurance",
+			"path": "/projects/ocp-dev-days-rdshw-parasol-insurance"
 		},
 		{
-			"name": "parasol-insurance-manifests",
-			"path": "/projects/parasol-insurance-manifests"
+			"name": "ocp-dev-days-rdshw-parasol-insurance-manifests",
+			"path": "/projects/ocp-dev-days-rdshw-parasol-insurance-manifests"
 		},
 		{
 			"name": "ocp-pe-wkshp-helm-infra",
 			"path": "/projects/ocp-pe-wkshp-helm-infra"
 		},
 		{
-			"name": "ocp-pe-wkshp",
-			"path": "/projects/platform-engineering-workshop"
+			"name": "ocp-pe-wkshp-platform-engineering-workshop",
+			"path": "/projects/ocp-pe-wkshp-platform-engineering-workshop"
 		},
 		{
 			"name": "ocp-pe-wkshp-rhdh-configs",
@@ -46,27 +46,15 @@
 		},
 		{
 			"name": "ocp-pe-wkshp-showroom-roadshow-v2",
-			"path": "/projects/showroom-roadshow-v2"
+			"path": "/projects/ocp-pe-wkshp-showroom-roadshow-v2"
 		},
 		{
 			"name": "ocp-pe-wkshp-prerequisite-samples",
-			"path": "/projects/pe-workshop-prerequisite-samples"
+			"path": "/projects/ocp-pe-wkshp-pe-workshop-prerequisite-samples"
 		},
 		{
 			"name": "ansible-devspaces-fsc",
 			"path": "/projects/ansible-devspaces-fsc"
-		},
-		{
-			"name": "platform-engineering-workshop",
-			"path": "/projects/platform-engineering-workshop"
-		},
-		{
-			"name": "showroom-roadshow-v2",
-			"path": "/projects/showroom-roadshow-v2"
-		},
-		{
-			"name": "pe-workshop-prerequisite-samples",
-			"path": "/projects/pe-workshop-prerequisite-samples"
 		}
 	],
 	"extensions": {

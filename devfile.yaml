@@ -1,6 +1,6 @@
 schemaVersion: 2.3.0
 metadata:
-  name: ocp-devdays-workspace
+  name: ocp-roadshow-workspace
 dependentProjects:
 - name: ocp-dev-days-rdshw-automation
   git:
@@ -23,21 +23,21 @@ dependentProjects:
     checkoutFrom:
       remote: origin
       revision: main
-- name: workspace-images
+- name: ocp-dev-days-rdshw-workspace-images
   git:
     remotes:
       origin: https://github.com/cgruver/dev-days-workspace-images.git
     checkoutFrom:
       remote: origin
       revision: main
-- name: parasol-insurance
+- name: ocp-dev-days-rdshw-parasol-insurance
   git:
     remotes:
       origin: https://github.com/cgruver/ocp-devdays-parasol-insurance.git
     checkoutFrom:
       remote: origin
       revision: main
-- name: parasol-insurance-manifests
+- name: ocp-dev-days-rdshw-parasol-insurance-manifests
   git:
     remotes:
       origin: https://github.com/cgruver/parasol-insurance-manifests.git
@@ -51,7 +51,7 @@ dependentProjects:
     checkoutFrom:
       remote: origin
       revision: main
-- name: platform-engineering-workshop
+- name: ocp-pe-wkshp-platform-engineering-workshop
   git:
     remotes:
       origin: https://github.com/cgruver/platform-engineering-workshop.git
@@ -72,14 +72,14 @@ dependentProjects:
     checkoutFrom:
       remote: origin
       revision: main
-- name: showroom-roadshow-v2
+- name: ocp-pe-wkshp-showroom-roadshow-v2
   git:
     remotes:
       origin: https://github.com/cgruver/showroom-roadshow-v2.git
     checkoutFrom:
       remote: origin
       revision: main
-- name: pe-workshop-prerequisite-samples
+- name: ocp-pe-wkshp-pe-workshop-prerequisite-samples
   git:
     remotes:
       origin: https://github.com/cgruver/pe-workshop-prerequisite-samples.git
