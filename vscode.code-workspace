@@ -55,6 +55,18 @@
 		{
 			"name": "ansible-devspaces-fsc",
 			"path": "/projects/ansible-devspaces-fsc"
+		},
+		{
+			"name": "platform-engineering-workshop",
+			"path": "/projects/platform-engineering-workshop"
+		},
+		{
+			"name": "showroom-roadshow-v2",
+			"path": "/projects/showroom-roadshow-v2"
+		},
+		{
+			"name": "pe-workshop-prerequisite-samples",
+			"path": "/projects/pe-workshop-prerequisite-samples"
 		}
 	],
 	"extensions": {
