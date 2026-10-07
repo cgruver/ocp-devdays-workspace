@@ -36,14 +36,14 @@ dependentProjects:
       origin: https://github.com/cgruver/ocp-devdays-parasol-insurance.git
     checkoutFrom:
       remote: origin
-      revision: main
+      revision: dev-day
 - name: ocp-dev-days-rdshw-parasol-insurance-manifests
   git:
     remotes:
       origin: https://github.com/cgruver/parasol-insurance-manifests.git
     checkoutFrom:
       remote: origin
-      revision: main
+      revision: dev-day
 - name: ocp-pe-wkshp-helm-infra
   git:
     remotes:
