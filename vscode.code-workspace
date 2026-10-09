@@ -53,6 +53,10 @@
 			"path": "/projects/ocp-pe-wkshp-pe-workshop-prerequisite-samples"
 		},
 		{
+			"name": "ocp-pe-wkshp-workspace-images",
+			"path": "/projects/ocp-pe-wkshp-workspace-images"
+		},
+		{
 			"name": "ansible-devspaces-fsc",
 			"path": "/projects/ansible-devspaces-fsc"
 		}

@@ -86,6 +86,13 @@ dependentProjects:
     checkoutFrom:
       remote: origin
       revision: main
+- name: ocp-pe-wkshp-workspace-images
+  git:
+    remotes:
+      origin: https://github.com/cgruver/ocp-pe-wkshp-workspace-images.git
+    checkoutFrom:
+      remote: origin
+      revision: main
 - name: ansible-devspaces-fsc
   git:
     remotes:
